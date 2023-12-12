@@ -3,7 +3,6 @@
 
 
 def vowels_now(vowels);
-    
     vowels = aeiou
     i = 0 
     counter = 0 
